@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yunProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yunProject_jar</output-path>
+    <root id="archive" name="yunProject.jar">
+      <element id="module-output" name="yunProject" />
+    </root>
+  </artifact>
+</component>
