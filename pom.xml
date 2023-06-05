@@ -27,7 +27,7 @@
                 <configuration>
                     <webResources>
                         <resource>
-                            <directory>WebContent</directory>
+                            <directory>yunProject</directory>
                         </resource>
                     </webResources>
                 </configuration>
